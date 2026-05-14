@@ -1,2 +1,2 @@
 # Mirror-Touch-Net
-Implementation of robotic mirror touch
+Implementation of robotic mirror touch. Coming soon...
